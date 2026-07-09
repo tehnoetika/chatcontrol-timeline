@@ -8,10 +8,11 @@
       "title": "Prošao Chat Control. EU vraća masovni nadzor poruka",
       "type": "hr_mediji",
       "actor": "Index.hr",
-      "summary": "Europski parlament nije uspio odbaciti stajalište Vijeća (276 za odbacivanje : 286 protiv : 30 suzdržanih, uz potreban prag od 361), pa je privremena mjera dobrovoljnog masovnog nadzora poruka ponovno usvojena i vrijedi do 3. travnja 2028.",
+      "summary": "Europski parlament nije uspio odbaciti stajalište Vijeća (nije dosegnut prag apsolutne većine od 361), pa je privremena mjera dobrovoljnog masovnog nadzora poruka ponovno usvojena i vrijedi do 3. travnja 2028. Prema službenom poimeničnom glasovanju bilo je 314 za odbacivanje : 276 protiv : 17 suzdržanih.",
       "source_url": "https://www.index.hr/vijesti/clanak/prosao-chat-control-eu-vraca-masovni-nadzor-poruka/2811667.aspx",
       "source_name": "index.hr",
       "eu_ref_url": null,
+      "image": "https://ip.index.hr/remote/bucket.index.hr/b/index/d6b2b86b-5d46-49ea-9d9b-ff47e29a4550.png?fb_wtrmrk=vijesti.jpg&width=1200&height=630&mode=crop&format=png",
       "verified": true,
       "pivotal": false,
       "status": null
@@ -26,6 +27,7 @@
       "source_url": "https://dnevnik.hr/vijesti/svijet/europski-parlament-izglasao-privremenu-mjeru-za-nadzor-komunikacije---990465.html",
       "source_name": "Dnevnik.hr",
       "eu_ref_url": null,
+      "image": "https://image.dnevnik.hr/media/images/1920x1080/Jul2026/63352867-mobitel.jpg",
       "verified": true,
       "pivotal": false,
       "status": null
@@ -36,10 +38,11 @@
       "title": "Europski parlament ne uspijeva odbaciti oživljavanje Chat Controla 1.0 — mjera prolazi do 2028.",
       "type": "glasovanje",
       "actor": "European Parliament",
-      "summary": "U drugom čitanju prijedlog za odbacivanje stajališta Vijeća dobio je 276 glasova za odbacivanje : 286 protiv : 30 suzdržanih — ispod apsolutne većine od 361 potrebne za blokadu. Iako je većina prisutnih zastupnika bila protiv same regulative (Breyer navodi 314 protiv uredbe), visoki prag značio je da stajalište Vijeća prolazi: dobrovoljni masovni nadzor privatnih poruka vraća se na snagu do 3. travnja 2028., uz simbolično izuzeće za enkriptiranu komunikaciju. Pregovori o trajnoj CSA uredbi nastavljaju se u rujnu.",
+      "summary": "Prema službenom poimeničnom glasovanju (RCV, 'Proposition de rejet'), prijedlog za odbacivanje stajališta Vijeća dobio je 314 glasova ZA odbacivanje : 276 protiv : 17 suzdržanih (112 nije glasalo). Iako je većina prisutnih glasala za odbacivanje, nije dosegnut prag apsolutne većine od 361 pa stajalište Vijeća prolazi: dobrovoljni masovni nadzor privatnih poruka vraća se na snagu do 3. travnja 2028., uz simbolično izuzeće za enkriptiranu komunikaciju. (Dio hrvatskih medija ranije je izvijestio 276:286:30.) Pregovori o trajnoj CSA uredbi nastavljaju se u rujnu.",
       "source_url": "https://www.patrick-breyer.de/en/eu-parliament-greenlights-chat-control-1-0-breyer-our-children-lose-out/",
       "source_name": "patrick-breyer.de",
-      "eu_ref_url": "https://www.europarl.europa.eu/plenary/hr/votes.html?tab=votes",
+      "eu_ref_url": "https://howtheyvote.eu/votes/195775",
+      "image": "https://www.patrick-breyer.de/wp-content/uploads/2023/07/logo_regular_vertical.png",
       "verified": true,
       "pivotal": true,
       "status": null
@@ -54,6 +57,7 @@
       "source_url": "https://www.bug.hr/propisi/chat-control-proceduralnim-trikom-prosao-prvi-korak-u-europskom-parlamentu-61296",
       "source_name": "bug.hr",
       "eu_ref_url": null,
+      "image": "https://www.bug.hr/img/chat-control-proceduralnim-trikom-prosao-prvi-korak-u-europskom-parlamentu_Y61n9r.jpg",
       "verified": true,
       "pivotal": false,
       "status": null
@@ -68,6 +72,7 @@
       "source_url": "https://www.change.org/p/non-%C3%A0-la-mise-sur-%C3%A9coute-de-votre-t%C3%A9l%C3%A9phone-avec-chat-control/u/34930761",
       "source_name": "change.org",
       "eu_ref_url": null,
+      "image": "https://assets.change.org/photos/6/ow/mp/vlOWmpjDDWqeCRp-1600x900-noPad.jpg?1757325096",
       "verified": true,
       "pivotal": false,
       "status": null
@@ -82,6 +87,7 @@
       "source_url": "https://www.bug.hr/propisi/neocekivani-povratak-kontroverzne-regulative-chat-control-opet-na-dnevnom-redu-61253",
       "source_name": "bug.hr",
       "eu_ref_url": null,
+      "image": "https://www.bug.hr/img/neocekivani-povratak-kontroverzne-regulative-chat-control-opet-na-dnevnom-redu_W7s4ts.jpg",
       "verified": true,
       "pivotal": false,
       "status": null
@@ -96,6 +102,7 @@
       "source_url": "https://www.novilist.hr/novosti/grmoja-pozivam-eurozastupnike-da-glasaju-protiv-chat-controla-to-je-put-u-nadzor-svih-gradana/",
       "source_name": "Novi list",
       "eu_ref_url": null,
+      "image": "https://www.novilist.hr/wp-content/uploads/2025/04/9523952-scaled.jpg",
       "verified": true,
       "pivotal": false,
       "status": null
@@ -110,6 +117,7 @@
       "source_url": "https://www.index.hr/vijesti/clanak/grmoja-pozivam-hrvatske-eurozastupnike-da-glasaju-protiv-chat-controla/2811291.aspx",
       "source_name": "index.hr",
       "eu_ref_url": null,
+      "image": "https://ip.index.hr/remote/bucket.index.hr/b/index/b4d5055b-a1c8-4f61-b62a-9ffffaf3f99f.jpg?fb_wtrmrk=vijesti.jpg&width=1200&height=630&mode=crop&format=png",
       "verified": true,
       "pivotal": false,
       "status": null
@@ -124,6 +132,7 @@
       "source_url": "https://n1info.hr/vijesti/grmoja-uputio-apel-eurozastupnicma-i-gradjanima-zbog-chat-controla-sve-vase-privatne-poruke-bit-ce-nadzirane/",
       "source_name": "n1info.hr",
       "eu_ref_url": null,
+      "image": "https://n1info.hr/media/images/2026/7/8/1783509942_PXL_080726_154970588.width-1200.webp",
       "verified": true,
       "pivotal": false,
       "status": null
@@ -138,6 +147,7 @@
       "source_url": "https://www.tportal.hr/vijesti/clanak/grmoja-pozvao-hrvatske-eurozastupnike-da-glasaju-protiv-chat-controla-20260708",
       "source_name": "tportal.hr",
       "eu_ref_url": null,
+      "image": "https://www.tportal.hr/media/thumbnail/1200x720/2759535.jpeg?cropId=0",
       "verified": true,
       "pivotal": false,
       "status": null
@@ -152,6 +162,7 @@
       "source_url": "https://x.com/nikolagrmoja",
       "source_name": "X",
       "eu_ref_url": null,
+      "image": null,
       "verified": false,
       "pivotal": false,
       "status": null
@@ -166,6 +177,7 @@
       "source_url": "https://www.nacional.hr/chat-control-grmoja-gdje-je-sdp-mi-i-dalje-ostajemo-jedini-u-zastiti-privatnosti-gradana/",
       "source_name": "nacional.hr",
       "eu_ref_url": null,
+      "image": "https://www.nacional.hr/wp-content/uploads/2026/07/PXL_070726_154910833.jpg",
       "verified": true,
       "pivotal": false,
       "status": null
@@ -180,6 +192,7 @@
       "source_url": "https://www.index.hr/vijesti/clanak/vraca-se-masovni-nadzor-poruka-eu-parlament-ce-glasati-po-hitnom-postupku/2810921.aspx",
       "source_name": "index.hr",
       "eu_ref_url": null,
+      "image": "https://ip.index.hr/remote/bucket.index.hr/b/index/676000e5-eb72-44f2-a106-ffa606b663d5.png?fb_wtrmrk=vijesti.jpg&width=1200&height=630&mode=crop&format=png",
       "verified": true,
       "pivotal": false,
       "status": null
@@ -194,6 +207,7 @@
       "source_url": "https://hrvatskiratnik.hr/ne-kontroli-razgovora-chat-control-zaustavite-pokusaj-prepada/",
       "source_name": "hrvatskiratnik.hr",
       "eu_ref_url": null,
+      "image": null,
       "verified": true,
       "pivotal": false,
       "status": null
@@ -208,6 +222,7 @@
       "source_url": "https://www.heise.de/en/news/Showdown-in-Strasbourg-The-unexpected-return-of-Chat-Control-1-0-11356680.html",
       "source_name": "heise.de",
       "eu_ref_url": null,
+      "image": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/5/1/1/2/7/6/7/shutterstock_2248568015-21aebc31fb107116.jpg",
       "verified": true,
       "pivotal": true,
       "status": null
@@ -222,6 +237,7 @@
       "source_url": "https://www.facebook.com/citizengo/posts/-urgent-the-european-parliament-has-voted-to-approve-chat-control-by-a-narrow-ma/1478238287679331/",
       "source_name": "facebook.com",
       "eu_ref_url": null,
+      "image": null,
       "verified": true,
       "pivotal": true,
       "status": null
@@ -236,6 +252,7 @@
       "source_url": "https://www.patrick-breyer.de/en/procedural-trick-before-summer-recess-pushes-eu-parliament-towards-capitulation-on-chat-control/",
       "source_name": "patrick-breyer.de",
       "eu_ref_url": null,
+      "image": "https://www.patrick-breyer.de/wp-content/uploads/2023/07/logo_regular_vertical.png",
       "verified": true,
       "pivotal": true,
       "status": null
@@ -250,6 +267,7 @@
       "source_url": "https://brusselssignal.eu/2026/07/mep-sonneborn-slams-chat-control-push-suspends-a-fundamental-right/",
       "source_name": "brusselssignal.eu",
       "eu_ref_url": null,
+      "image": "https://brusselssignal.eu/content/uploads/2026/07/cropped-WhatsApp-Image-2026-07-07-at-16.26.06-4.webp",
       "verified": true,
       "pivotal": true,
       "status": null
@@ -264,6 +282,7 @@
       "source_url": "https://citizengo.org/en-row/ot/18646-no-to-chat-control",
       "source_name": "citizengo.org",
       "eu_ref_url": null,
+      "image": "https://api.citizengo.org/media/images/Chat%20Control%20July_nNx9U24.png",
       "verified": true,
       "pivotal": false,
       "status": null
@@ -278,6 +297,7 @@
       "source_url": "https://citizengo.org/de/ot/18633-nein-zur-chatkontrolle--stoppt-den-%C3%BCberrumpelungsversuch-",
       "source_name": "citizengo.org",
       "eu_ref_url": null,
+      "image": "https://api.citizengo.org/media/images/petition_211208_pfLgrXh.webp",
       "verified": true,
       "pivotal": false,
       "status": null
@@ -292,6 +312,7 @@
       "source_url": "https://www.tportal.hr/tehno/clanak/koristite-whatsapp-ili-telegram-pazite-sto-enkripcija-zapravo-stiti-a-sto-ne-20260704",
       "source_name": "tportal.hr",
       "eu_ref_url": null,
+      "image": "https://www.tportal.hr/media/thumbnail/1200x720/2760012.jpeg?cropId=0",
       "verified": true,
       "pivotal": false,
       "status": null
@@ -306,6 +327,7 @@
       "source_url": "https://euperspectives.eu/2026/07/parliament-forced-back-to-the-chat-control-question/",
       "source_name": "euperspectives.eu",
       "eu_ref_url": null,
+      "image": "https://euperspectives.eu/app/uploads/2026/07/pexels-towfiqu-barbhuiya-3440682-11350104-scaled.jpg",
       "verified": true,
       "pivotal": false,
       "status": null
@@ -320,6 +342,7 @@
       "source_url": "https://closednetwork.io/eu-chat-control-the-fight-to-scan-every-private-message-live-tracker/",
       "source_name": "closednetwork.io",
       "eu_ref_url": null,
+      "image": "https://storage.ghost.io/c/97/f9/97f93346-19b8-4ce8-8204-f6bdc9bf51e4/content/images/size/w1200/2026/07/chat-control-featured.png",
       "verified": true,
       "pivotal": true,
       "status": null
@@ -334,6 +357,7 @@
       "source_url": "https://fightchatcontrol.eu/",
       "source_name": "fightchatcontrol.eu",
       "eu_ref_url": null,
+      "image": null,
       "verified": true,
       "pivotal": false,
       "status": null
@@ -348,6 +372,7 @@
       "source_url": "https://www.patrick-breyer.de/en/double-threat-to-private-communications-undemocratic-chat-control-backroom-deals-and-imminent-concessions-spark-relaunch-of-fightchatcontrol-eu/",
       "source_name": "patrick-breyer.de",
       "eu_ref_url": null,
+      "image": "https://www.patrick-breyer.de/wp-content/uploads/2024/01/240130_Breyer-Alternativen-engl.png",
       "verified": true,
       "pivotal": false,
       "status": null
@@ -362,6 +387,7 @@
       "source_url": "https://www.euronews.com/my-europe/2026/06/26/eu-countries-move-to-revive-temporary-message-scanning-regime-but-it-could-backfire",
       "source_name": "euronews.com",
       "eu_ref_url": null,
+      "image": "https://images.euronews.com/articles/stories/09/81/49/35/1200x675_cmsv2_55a1ac86-fa3a-5734-85fa-7e658d392619-9814935.jpg",
       "verified": true,
       "pivotal": false,
       "status": null
@@ -376,6 +402,7 @@
       "source_url": "https://domovina.ai/v/zZaW8UTn8as/",
       "source_name": "domovina.ai",
       "eu_ref_url": null,
+      "image": "https://cdn.domovina.ai/images/zZaW8UTn8as/og-share.jpg",
       "verified": true,
       "pivotal": true,
       "status": null
@@ -390,6 +417,7 @@
       "source_url": "https://fightchatcontrol.eu/chat-control-overview",
       "source_name": "fightchatcontrol.eu",
       "eu_ref_url": null,
+      "image": null,
       "verified": true,
       "pivotal": false,
       "status": null
@@ -404,6 +432,7 @@
       "source_url": "https://www.euronews.com/my-europe/2026/07/07/eu-to-extend-temporary-message-scanning-regime-to-detect-child-sexual-abuse-online",
       "source_name": "euronews.com",
       "eu_ref_url": "https://eur-lex.europa.eu/eli/reg/2021/1232/oj",
+      "image": "https://images.euronews.com/articles/stories/09/82/69/91/1200x675_cmsv2_62b7bc35-6a0e-5e1b-84d7-792b84765788-9826991.jpg",
       "verified": true,
       "pivotal": true,
       "status": null
@@ -418,6 +447,7 @@
       "source_url": "https://www.change.org/p/non-%C3%A0-la-mise-sur-%C3%A9coute-de-votre-t%C3%A9l%C3%A9phone-avec-chat-control/u/34427856",
       "source_name": "change.org",
       "eu_ref_url": null,
+      "image": "https://assets.change.org/photos/1/br/yn/RwBRYnLClQuYWkQ-1600x900-noPad.jpg?1774526156",
       "verified": true,
       "pivotal": false,
       "status": null
@@ -432,6 +462,7 @@
       "source_url": "https://www.tportal.hr/tehno/clanak/nista-od-masovnog-nadzora-eu-srusio-chat-control-skeniranje-privatnih-poruka-postaje-ilegalno-20260326",
       "source_name": "tportal.hr",
       "eu_ref_url": null,
+      "image": "https://www.tportal.hr/media/thumbnail/1200x720/2700603.jpeg?cropId=0",
       "verified": true,
       "pivotal": false,
       "status": null
@@ -446,6 +477,7 @@
       "source_url": "https://www.patrick-breyer.de/en/historic-chat-control-vote-in-the-eu-parliament-meps-vote-to-end-untargeted-mass-scanning-of-private-chats/",
       "source_name": "patrick-breyer.de",
       "eu_ref_url": null,
+      "image": "https://www.patrick-breyer.de/wp-content/uploads/2023/07/logo_regular_vertical.png",
       "verified": true,
       "pivotal": false,
       "status": null
@@ -460,6 +492,7 @@
       "source_url": "https://howtheyvote.eu/votes/189574",
       "source_name": "howtheyvote.eu",
       "eu_ref_url": "https://www.europarl.europa.eu/doceo/document/A-10-2026-0040_EN.html",
+      "image": null,
       "verified": true,
       "pivotal": true,
       "status": null
@@ -474,6 +507,7 @@
       "source_url": "https://euperspectives.eu/2026/03/eu-parliament-committee-votes-down-extension-of-csam-detection-rules/",
       "source_name": "euperspectives.eu",
       "eu_ref_url": null,
+      "image": "https://euperspectives.eu/app/uploads/2025/09/priscilla-du-preez-vkmh9bvnvry-unsplash-scaled.jpg",
       "verified": true,
       "pivotal": false,
       "status": null
@@ -488,6 +522,7 @@
       "source_url": "https://edri.org/our-work/open-letter-we-say-no-to-big-tech-mass-snooping-on-our-messages/",
       "source_name": "edri.org",
       "eu_ref_url": null,
+      "image": "https://edri.org/wp-content/uploads/2026/02/BlogPost-When-Im-gone-with-love-311.png",
       "verified": true,
       "pivotal": false,
       "status": null
@@ -502,6 +537,7 @@
       "source_url": "https://domovina.ai/v/Cw5uIg_sbQM/",
       "source_name": "domovina.ai",
       "eu_ref_url": null,
+      "image": "https://cdn.domovina.ai/images/Cw5uIg_sbQM/og-share.jpg",
       "verified": true,
       "pivotal": false,
       "status": null
@@ -516,6 +552,7 @@
       "source_url": "https://domovina.ai/v/CPn5xARYfYg/",
       "source_name": "domovina.ai",
       "eu_ref_url": null,
+      "image": "https://cdn.domovina.ai/images/CPn5xARYfYg/og-share.jpg",
       "verified": true,
       "pivotal": false,
       "status": null
@@ -530,6 +567,7 @@
       "source_url": "https://domovina.ai/v/rJgfIIekM1U/",
       "source_name": "domovina.ai",
       "eu_ref_url": null,
+      "image": "https://cdn.domovina.ai/images/rJgfIIekM1U/og-share.jpg",
       "verified": true,
       "pivotal": true,
       "status": null
@@ -544,6 +582,7 @@
       "source_url": "https://domovina.ai/v/XhzpkkIkT20/",
       "source_name": "domovina.ai",
       "eu_ref_url": null,
+      "image": "https://cdn.domovina.ai/images/XhzpkkIkT20/og-share.jpg",
       "verified": true,
       "pivotal": false,
       "status": null
@@ -558,6 +597,7 @@
       "source_url": "https://www.eff.org/deeplinks/2025/12/after-years-controversy-eus-chat-control-nears-its-final-hurdle-what-know",
       "source_name": "eff.org",
       "eu_ref_url": null,
+      "image": "https://www.eff.org/files/banner_library/encryption-poc-chelsea-saunders.png",
       "verified": true,
       "pivotal": false,
       "status": null
@@ -572,6 +612,7 @@
       "source_url": "https://euperspectives.eu/2025/12/breyer-warns-chat-control-decision-moves-into-2026/",
       "source_name": "euperspectives.eu",
       "eu_ref_url": null,
+      "image": "https://euperspectives.eu/app/uploads/2025/12/1698331008421-20231026-ep-158542a-vdv-095-scaled.jpg",
       "verified": true,
       "pivotal": false,
       "status": null
@@ -586,6 +627,7 @@
       "source_url": "https://www.patrick-breyer.de/en/reality-check-eu-council-chat-control-vote-is-not-a-retreat-but-a-green-light-for-indiscriminate-mass-surveillance-and-the-end-of-right-to-communicate-anonymously/",
       "source_name": "patrick-breyer.de",
       "eu_ref_url": null,
+      "image": "https://www.patrick-breyer.de/wp-content/uploads/2023/07/logo_regular_vertical.png",
       "verified": true,
       "pivotal": false,
       "status": null
@@ -600,6 +642,7 @@
       "source_url": "https://www.glasistre.hr/eu/2025/11/26/dogovor-o-chat-controlu-dobrovoljno-skeniranje-ostaje-na-snazi-1036217",
       "source_name": "glasistre.hr",
       "eu_ref_url": null,
+      "image": "https://storage.glasistre.hr/MediaServer/Photos/Download/593602?Format=1",
       "verified": true,
       "pivotal": false,
       "status": null
@@ -614,6 +657,7 @@
       "source_url": "https://www.mpg.de/25788438/chat-control-eu-client-side-scanning",
       "source_name": "mpg.de",
       "eu_ref_url": null,
+      "image": "https://www.mpg.de/25772688/original-1777376080.png?t=ZXlKM2FXUjBhQ0k2TVRJd01Dd2lhR1ZwWjJoMElqcHVkV3hzTENKbWFYUWlPbTUxYkd3c0ltOWlhbDlwWkNJNk1qVTNOekkyT0RoOS0tOTc1Nzg4M2E0ZTExMDFlM2E2MzExNGI1ZmE3NDZiM2E4ZGFmZGJmMw",
       "verified": true,
       "pivotal": false,
       "status": null
@@ -628,6 +672,7 @@
       "source_url": "https://liberal.hr/chat-control-izmijenjen-prosao-na-vijecu-eu-a-strucnjaci-upozoravaju-na-opasnosti-nove-verzije-509",
       "source_name": "liberal.hr",
       "eu_ref_url": null,
+      "image": "https://liberal.hr/images/fb7424.jpg",
       "verified": true,
       "pivotal": false,
       "status": null
@@ -642,6 +687,7 @@
       "source_url": "https://n1info.hr/vijesti/rakar-o-velikoj-meunarodnoj-akciji-policije-chat-control-nema-nikakve-veze-s-ovim-uhienjem/",
       "source_name": "n1info.hr",
       "eu_ref_url": null,
+      "image": "https://n1info.hr/media/images/2025/10/1761302119_fbcdslkxcmgv.width-1200.webp",
       "verified": true,
       "pivotal": false,
       "status": null
@@ -656,6 +702,7 @@
       "source_url": "https://n1info.hr/vijesti/hajdas-doncic-o-razbijanju-pedofilske-mreze-vidimo-da-se-i-bez-masovnog-nadzora-gradjana-mogu-otkrivati-takve-stvari/",
       "source_name": "n1info.hr",
       "eu_ref_url": null,
+      "image": "https://n1info.hr/media/images/2025/10/1761311387_Sinisa_Hajdas_Doncic_Pixsell.width-1200.webp",
       "verified": true,
       "pivotal": false,
       "status": null
@@ -670,6 +717,7 @@
       "source_url": "https://cyberinsider.com/netherlands-rejects-chat-control-proposal-which-threatens-encryption/",
       "source_name": "cyberinsider.com",
       "eu_ref_url": null,
+      "image": "https://cyberinsider.com/wp-content/uploads/2025/10/Netherlands-Rejects-Chat-Control-Proposal-Which-Threatens-Encryption.jpg",
       "verified": true,
       "pivotal": false,
       "status": null
@@ -684,6 +732,7 @@
       "source_url": "https://www.index.hr/vijesti/clanak/vlada-tvrdi-da-ne-zeli-citati-sve-nase-poruke-ovo-je-dokaz-da-lazu/2732097.aspx#transkript",
       "source_name": "Index.hr",
       "eu_ref_url": null,
+      "image": "https://ip.index.hr/remote/bucket.index.hr/b/index/89276b41-98fa-4d97-9e0f-186ecbbae59e.png?fb_wtrmrk=vijesti.jpg&width=1200&height=630&mode=crop&format=png",
       "verified": true,
       "pivotal": false,
       "status": null
@@ -698,6 +747,7 @@
       "source_url": "https://www.index.hr/vijesti/clanak/vlada-tvrdi-da-ne-zeli-citati-sve-nase-poruke-ovo-je-dokaz-da-lazu/2732097.aspx",
       "source_name": "index.hr",
       "eu_ref_url": null,
+      "image": "https://ip.index.hr/remote/bucket.index.hr/b/index/89276b41-98fa-4d97-9e0f-186ecbbae59e.png?fb_wtrmrk=vijesti.jpg&width=1200&height=630&mode=crop&format=png",
       "verified": true,
       "pivotal": false,
       "status": null
@@ -712,6 +762,7 @@
       "source_url": "https://www.bug.hr/propisi/chat-control-20-uvodi-li-se-nadzor-na-mala-vrata-kroz-politicku-obmanu-55298",
       "source_name": "bug.hr",
       "eu_ref_url": null,
+      "image": "https://www.bug.hr/img/chat-control-20-uvodi-li-se-nadzor-na-mala-vrata-kroz-politicku-obmanu_oMbk-x.jpg",
       "verified": true,
       "pivotal": false,
       "status": null
@@ -726,6 +777,7 @@
       "source_url": "https://n1info.hr/vijesti/bozinovic-hrvatska-protiv-masovnog-nadzora-ali-i-sutnje-pred-zlostavljanjem-djece/",
       "source_name": "n1info.hr",
       "eu_ref_url": null,
+      "image": "https://n1info.hr/media/images/2025/10/1760455573_Davor_Bozinovic_Pixsell.width-1200.webp",
       "verified": true,
       "pivotal": false,
       "status": null
@@ -740,6 +792,7 @@
       "source_url": "https://n1info.hr/vijesti/hajda-doni-postavio-pitanje-plenkoviu-zato-i-dalje-podrava-chat-control/",
       "source_name": "n1info.hr",
       "eu_ref_url": null,
+      "image": "https://n1info.hr/media/images/2025/10/1760007037_PXL_011025_139418706.width-1200.webp",
       "verified": true,
       "pivotal": false,
       "status": null
@@ -754,6 +807,7 @@
       "source_url": "https://domovina.ai/v/FCNEhaMRz98/",
       "source_name": "domovina.ai",
       "eu_ref_url": null,
+      "image": "https://cdn.domovina.ai/images/FCNEhaMRz98/og-share.jpg",
       "verified": true,
       "pivotal": false,
       "status": null
@@ -768,6 +822,7 @@
       "source_url": "https://www.telegram.hr/politika-kriminal/hajdas-i-grmoja-se-slozili-razbijanje-pedofilske-mreze-dokaz-da-je-chat-control-nepotreban/",
       "source_name": "telegram.hr",
       "eu_ref_url": null,
+      "image": null,
       "verified": true,
       "pivotal": false,
       "status": null
@@ -782,6 +837,7 @@
       "source_url": "https://net.hr/danas/rtl-danas/eu-povukla-chat-control-s-dnevnog-reda-u-hrvatskoj-likuju-pobjeda-protiv-spijunaze-i-hdz-a-fcbea289-a90c-11f0-8210-9600040c8f8e",
       "source_name": "net.hr",
       "eu_ref_url": null,
+      "image": "https://net.hr/media/2025/10/14/1377928/H-4ebe1143-409c-4720-8f41-a2f3d3b8c48d-1200.webp",
       "verified": true,
       "pivotal": false,
       "status": null
@@ -796,6 +852,7 @@
       "source_url": "https://net.hr/danas/rtl-danas/eu-povukla-chat-control-s-dnevnog-reda-u-hrvatskoj-likuju-pobjeda-protiv-spijunaze-i-hdz-a-fcbea289-a90c-11f0-8210-9600040c8f8e#bauk",
       "source_name": "Net.hr / RTL Danas",
       "eu_ref_url": null,
+      "image": "https://net.hr/media/2025/10/14/1377928/H-4ebe1143-409c-4720-8f41-a2f3d3b8c48d-1200.webp",
       "verified": true,
       "pivotal": false,
       "status": null
@@ -810,6 +867,7 @@
       "source_url": "https://www.tportal.hr/vijesti/clanak/chat-control-u-zadnji-cas-povucen-s-dnevnog-reda-vijeca-eu-zasto-vlada-rh-suti-20251014",
       "source_name": "tportal.hr",
       "eu_ref_url": null,
+      "image": "https://www.tportal.hr/media/thumbnail/1200x720/2615186.jpeg?cropId=0",
       "verified": true,
       "pivotal": false,
       "status": null
@@ -824,6 +882,7 @@
       "source_url": "https://mup.gov.hr/vijesti/bozinovic-hrvatska-protiv-masovnog-nadzora-ali-i-sutnje-pred-zlostavljanjem-djece/295027",
       "source_name": "Ministarstvo unutarnjih poslova RH",
       "eu_ref_url": null,
+      "image": "https://mup.gov.hr/UserDocsImages//2025/10/preview.jpg",
       "verified": true,
       "pivotal": false,
       "status": null
@@ -838,6 +897,7 @@
       "source_url": "https://www.index.hr/vijesti/clanak/uspjela-pobuna-protiv-masovnog-nadzora-poruka-prijedlog-je-povucen/2719449.aspx",
       "source_name": "index.hr",
       "eu_ref_url": null,
+      "image": "https://ip.index.hr/remote/bucket.index.hr/b/index/3cfded40-fa6f-4575-b31a-d7fc4fe6a26d.png?fb_wtrmrk=vijesti.jpg&width=1200&height=630&mode=crop&format=png",
       "verified": true,
       "pivotal": false,
       "status": null
@@ -852,6 +912,7 @@
       "source_url": "https://www.euronews.com/next/2025/10/11/chat-control-on-hold-europes-eastern-flank-remains-passive",
       "source_name": "euronews.com",
       "eu_ref_url": null,
+      "image": "https://static.euronews.com/articles/stories/09/50/56/98/1200x675_cmsv2_b4b3fef1-1af4-5ba8-8783-ac902dd18da4-9505698.jpg",
       "verified": true,
       "pivotal": false,
       "status": null
@@ -866,6 +927,7 @@
       "source_url": "https://www.patrick-breyer.de/en/citizen-protest-halts-chat-control-breyer-celebrates-major-victory-for-digital-privacy/",
       "source_name": "patrick-breyer.de",
       "eu_ref_url": null,
+      "image": "https://www.patrick-breyer.de/wp-content/uploads/2025/10/chat-control-map-styled-7okt25.png",
       "verified": true,
       "pivotal": false,
       "status": null
@@ -880,6 +942,7 @@
       "source_url": "https://therecord.media/signal-calls-on-germany-to-vote-no-chat-control-germany",
       "source_name": "therecord.media",
       "eu_ref_url": null,
+      "image": null,
       "verified": true,
       "pivotal": false,
       "status": null
@@ -894,6 +957,7 @@
       "source_url": "https://cyberinsider.com/signal-vows-to-leave-european-market-if-chat-control-becomes-law/",
       "source_name": "cyberinsider.com",
       "eu_ref_url": null,
+      "image": "https://cyberinsider.com/wp-content/uploads/2025/10/Signal-Vows-to-Leave-European-Market-if-Chat-Control-Becomes-Law.jpeg",
       "verified": true,
       "pivotal": false,
       "status": null
@@ -908,6 +972,7 @@
       "source_url": "https://www.bug.hr/propisi/prodje-li-chat-control-europa-ce-ostati-bez-signala-54191",
       "source_name": "bug.hr",
       "eu_ref_url": null,
+      "image": "https://www.bug.hr/img/prodje-li-chat-control-europa-ce-ostati-bez-signala_Y0w0tB.png",
       "verified": true,
       "pivotal": false,
       "status": null
@@ -922,6 +987,7 @@
       "source_url": "https://therecord.media/signal-calls-on-germany-to-vote-no-chat-control",
       "source_name": "therecord.media",
       "eu_ref_url": null,
+      "image": "https://cms.therecord.media/uploads/appshunter_io_Bu_Pi_OZN_5_DOQ_unsplash_1_bd1472fb8c.jpg",
       "verified": true,
       "pivotal": false,
       "status": null
@@ -936,6 +1002,7 @@
       "source_url": "https://n1info.hr/svijet/drzave-clanice-eu-a-se-usuglasile-oko-chat-controla-prijedlog-o-obaveznom-skeniranju-odbacen/",
       "source_name": "n1info.hr",
       "eu_ref_url": null,
+      "image": "https://n1info.hr/media/images/2025/7/1752663120_pexels-uma-media-2149408028-30875.width-1200.webp",
       "verified": true,
       "pivotal": false,
       "status": null
@@ -950,6 +1017,7 @@
       "source_url": "https://most-hrvatska.hr/2025/09/19/okrugli-stol-o-regulativi-chat-control-jednom-kad-ukinemo-privatnost-ukidamo-i-demokraciju/",
       "source_name": "MOST (službena stranica)",
       "eu_ref_url": null,
+      "image": "https://most-hrvatska.hr/wp-content/uploads/2025/09/WhatsApp-Image-2025-09-18-at-14.44.12.jpeg",
       "verified": true,
       "pivotal": false,
       "status": null
@@ -964,6 +1032,7 @@
       "source_url": "https://n1info.hr/vijesti/glasovac-pozvala-gradjane-da-potpisu-sdp-ovu-peticiju-u-obranu-privatnosti/",
       "source_name": "n1info.hr",
       "eu_ref_url": null,
+      "image": "https://n1info.hr/media/images/2025/9/1758286263_PXL_110725_135382764.width-1200.webp",
       "verified": true,
       "pivotal": false,
       "status": null
@@ -978,6 +1047,7 @@
       "source_url": "https://www.index.hr/vijesti/clanak/eu-zeli-nadzirati-poruke-odvjetnik-sve-ce-nas-se-tretirati-kao-osumnjicenike/2711285.aspx",
       "source_name": "index.hr",
       "eu_ref_url": null,
+      "image": "https://ip.index.hr/remote/bucket.index.hr/b/index/871beb60-8e24-4aaf-a19d-89132544eac9.png?fb_wtrmrk=vijesti.jpg&width=1200&height=630&mode=crop&format=png",
       "verified": true,
       "pivotal": false,
       "status": null
@@ -992,6 +1062,7 @@
       "source_url": "https://domovina.ai/v/pvbTxeZvzxs/",
       "source_name": "domovina.ai",
       "eu_ref_url": null,
+      "image": "https://cdn.domovina.ai/images/pvbTxeZvzxs/og-share.jpg",
       "verified": true,
       "pivotal": true,
       "status": null
@@ -1006,6 +1077,7 @@
       "source_url": "https://www.youtube.com/watch?v=pvbTxeZvzxs",
       "source_name": "YouTube",
       "eu_ref_url": null,
+      "image": "https://i.ytimg.com/vi/pvbTxeZvzxs/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGMgYyhjMA8=&rs=AOn4CLDMMjKx8C9bpQVUE6i_VyG4LGP8sA",
       "verified": true,
       "pivotal": true,
       "status": null
@@ -1020,6 +1092,7 @@
       "source_url": "https://www.sabor.hr/hr/press/priopcenja/na-okruglom-stolu-u-organizaciji-mosta-raspravljano-o-prijedlogu-regulative-eu",
       "source_name": "Hrvatski sabor (priopćenje)",
       "eu_ref_url": null,
+      "image": "http://www.sabor.hr/sites/default/files/uploads/gallery-image-box/2025-09/okrugli_stol_Grmoja_1.jpg",
       "verified": true,
       "pivotal": true,
       "status": null
@@ -1034,6 +1107,7 @@
       "source_url": "https://www.telegram.hr/politika-kriminal/most-se-zgraza-nad-drzavnom-kontrolom-poruka-na-whatsappu-ali-bi-da-drzava-zna-tko-gleda-pornice/",
       "source_name": "telegram.hr",
       "eu_ref_url": null,
+      "image": null,
       "verified": true,
       "pivotal": true,
       "status": null
@@ -1048,6 +1122,7 @@
       "source_url": "https://www.monitor.hr/vojkovic-o-chat-controlu-prefrigani-i-podli-model-guranja-kontrole-komunikacija/",
       "source_name": "monitor.hr",
       "eu_ref_url": null,
+      "image": null,
       "verified": true,
       "pivotal": false,
       "status": null
@@ -1062,6 +1137,7 @@
       "source_url": "https://csa-scientist-open-letter.org/Sep2025",
       "source_name": "csa-scientist-open-letter.org",
       "eu_ref_url": null,
+      "image": null,
       "verified": true,
       "pivotal": false,
       "status": null
@@ -1076,6 +1152,7 @@
       "source_url": "https://tuta.com/blog/chat-control-criticism",
       "source_name": "tuta.com",
       "eu_ref_url": null,
+      "image": "https://tuta.com/assets/stop-chat-control.jFlRiWm2_2qBadG.png",
       "verified": true,
       "pivotal": false,
       "status": null
@@ -1090,6 +1167,7 @@
       "source_url": "https://www.monitor.hr/chat-control-2-0-zastita-djece-ili-najveci-europski-big-brother/",
       "source_name": "monitor.hr",
       "eu_ref_url": null,
+      "image": null,
       "verified": true,
       "pivotal": false,
       "status": null
@@ -1104,6 +1182,7 @@
       "source_url": "https://www.index.hr/vijesti/clanak/tko-ce-zaista-imati-koristi-od-nadzora-poruka-djeca-najmanje/2705439.aspx",
       "source_name": "index.hr",
       "eu_ref_url": null,
+      "image": "https://ip.index.hr/remote/bucket.index.hr/b/index/cae32b41-8897-4be9-bc58-7dcee084f3de.png?fb_wtrmrk=vijesti.jpg&width=1200&height=630&mode=crop&format=png",
       "verified": true,
       "pivotal": false,
       "status": null
@@ -1118,6 +1197,7 @@
       "source_url": "https://www.tportal.hr/tehno/clanak/domaci-strucnjaci-ne-igrajte-se-kontrolom-chata-to-znaci-kraj-anonimnosti-na-internetu-20250906",
       "source_name": "tportal.hr",
       "eu_ref_url": null,
+      "image": "https://www.tportal.hr/media/thumbnail/1200x720/2590595.jpeg?cropId=0",
       "verified": true,
       "pivotal": false,
       "status": null
@@ -1132,6 +1212,7 @@
       "source_url": "https://www.index.hr/vijesti/clanak/nadzor-privatnih-poruka-znaci-kraj-privatnosti-ni-stasi-nije-imao-ovako-nesto/2704736.aspx",
       "source_name": "index.hr",
       "eu_ref_url": null,
+      "image": "https://ip.index.hr/remote/bucket.index.hr/b/index/0a8df109-7035-4189-825b-c903029c17f0.png?fb_wtrmrk=vijesti.jpg&width=1200&height=630&mode=crop&format=png",
       "verified": true,
       "pivotal": false,
       "status": null
@@ -1146,6 +1227,7 @@
       "source_url": "https://www.index.hr/vijesti/clanak/eu-nova-uredba-nece-nadzirati-privatnu-komunikaciju-gradjana/2706847.aspx",
       "source_name": "index.hr",
       "eu_ref_url": null,
+      "image": "https://ip.index.hr/remote/bucket.index.hr/b/index/15b76852-0747-4e6b-aeae-8b9aa68f7582.jpg?fb_wtrmrk=vijesti.jpg&width=1200&height=630&mode=crop&format=png",
       "verified": true,
       "pivotal": false,
       "status": null
@@ -1160,6 +1242,7 @@
       "source_url": "https://n1info.hr/svijet/eu-odgovorio-na-optube-za-praenje-online-komunikacije-graana/",
       "source_name": "n1info.hr",
       "eu_ref_url": null,
+      "image": "https://n1info.hr/media/images/2025/5/1635503652-azamat-e-eb1cgnNIazI-unsplash.width-1200.jpg",
       "verified": true,
       "pivotal": false,
       "status": null
@@ -1174,6 +1257,7 @@
       "source_url": "https://citizengo.org/en-row/ot/16287-reject-chat-control--stop-eu-spying-on-your-messages",
       "source_name": "citizengo.org",
       "eu_ref_url": null,
+      "image": "https://api.citizengo.org/media/images/Screenshot%202025-08-25%2004.25.13.webp",
       "verified": true,
       "pivotal": false,
       "status": null
@@ -1188,6 +1272,7 @@
       "source_url": "https://dnevnik.hr/vijesti/hrvatska/lome-se-koplja-oko-chat-controla-vlada-jos-nije-zauzela-stav-tko-god-se-smatra-prijetnjom-moze-se-naci-na-udaru---931983.html#ressler",
       "source_name": "Dnevnik.hr",
       "eu_ref_url": null,
+      "image": "https://image.dnevnik.hr/media/images/1920x1080/Aug2025/63145031-chat-control-2.jpg",
       "verified": true,
       "pivotal": false,
       "status": null
@@ -1202,6 +1287,7 @@
       "source_url": "https://www.bug.hr/propisi/raste-otpor-chat-controlu-ali-eu-je-i-dalje-korak-blize-skeniranju-vasih-poruka-53256",
       "source_name": "bug.hr",
       "eu_ref_url": null,
+      "image": "https://www.bug.hr/img/raste-otpor-chat-controlu-ali-eu-je-i-dalje-korak-blize-skeniranju-vasih-poruka_f5iN8i.jpg",
       "verified": true,
       "pivotal": false,
       "status": null
@@ -1216,6 +1302,7 @@
       "source_url": "https://dnevnik.hr/vijesti/hrvatska/lome-se-koplja-oko-chat-controla-vlada-jos-nije-zauzela-stav-tko-god-se-smatra-prijetnjom-moze-se-naci-na-udaru---931983.html",
       "source_name": "Dnevnik.hr",
       "eu_ref_url": null,
+      "image": "https://image.dnevnik.hr/media/images/1920x1080/Aug2025/63145031-chat-control-2.jpg",
       "verified": true,
       "pivotal": false,
       "status": null
@@ -1230,6 +1317,7 @@
       "source_url": "https://dnevnik.hr/vijesti/hrvatska/lome-se-koplja-oko-chat-controla-vlada-jos-nije-zauzela-stav-tko-god-se-smatra-prijetnjom-moze-se-naci-na-udaru---931983.html#bosanac",
       "source_name": "Dnevnik.hr",
       "eu_ref_url": null,
+      "image": "https://image.dnevnik.hr/media/images/1920x1080/Aug2025/63145031-chat-control-2.jpg",
       "verified": true,
       "pivotal": false,
       "status": null
@@ -1244,6 +1332,7 @@
       "source_url": "https://vijesti.hrt.hr/eu/sdp-poziva-vladu-da-glasa-protiv-europskog-zakona-o-masovnom-nadzoru--12299362",
       "source_name": "HRT Vijesti",
       "eu_ref_url": null,
+      "image": "https://api.hrt.hr/media/c4/77/shutterstock-1940230933-20250821105422.webp",
       "verified": true,
       "pivotal": false,
       "status": null
@@ -1258,6 +1347,7 @@
       "source_url": "https://most-hrvatska.hr/2025/08/21/peticija-protiv-zakona-chat-control/",
       "source_name": "MOST (službena stranica)",
       "eu_ref_url": null,
+      "image": "https://most-hrvatska.hr/wp-content/uploads/2025/08/STOP-CHAT-CONTROL-2.png",
       "verified": true,
       "pivotal": false,
       "status": null
@@ -1272,6 +1362,7 @@
       "source_url": "https://n1info.hr/vijesti/hajdas-doncic-vlada-andreja-plenkovica-podrzala-korak-prema-vucicevoj-srbiji-ili-prema-orwellovom-drustvu/",
       "source_name": "n1info.hr",
       "eu_ref_url": null,
+      "image": "https://n1info.hr/media/images/2025/8/1755777550_PXL_210825_137040223.width-1200.webp",
       "verified": true,
       "pivotal": false,
       "status": null
@@ -1286,6 +1377,7 @@
       "source_url": "https://www.facebook.com/CitizenGOhr/",
       "source_name": "Facebook",
       "eu_ref_url": null,
+      "image": null,
       "verified": false,
       "pivotal": false,
       "status": null
@@ -1300,6 +1392,7 @@
       "source_url": "https://www.bug.hr/propisi/chat-control-eu-ova-ideja-za-zastitu-djece-korak-je-prema-masovnom-nadzoru-52994",
       "source_name": "bug.hr",
       "eu_ref_url": null,
+      "image": "https://www.bug.hr/img/chat-control-eu-ova-ideja-za-zastitu-djece-korak-je-prema-masovnom-nadzoru_4uw84q.jpg",
       "verified": true,
       "pivotal": false,
       "status": null
@@ -1314,6 +1407,7 @@
       "source_url": "https://www.tportal.hr/tehno/clanak/nesto-je-trulo-u-drzavi-danskoj-u-ime-sigurnosti-zele-srusiti-privatnost-milijuna-gradana-20250808",
       "source_name": "tportal.hr",
       "eu_ref_url": null,
+      "image": "https://www.tportal.hr/media/thumbnail/1200x720/2505879.jpeg?cropId=0",
       "verified": true,
       "pivotal": false,
       "status": null
@@ -1328,6 +1422,7 @@
       "source_url": "https://www.euronews.com/next/2025/08/08/return-of-chat-control-something-is-rotten-in-the-state-of-denmark",
       "source_name": "euronews.com",
       "eu_ref_url": null,
+      "image": "https://static.euronews.com/articles/stories/09/40/96/79/1200x675_cmsv2_fa239d64-f1ad-5447-907b-619f4d93c1b1-9409679.jpg",
       "verified": true,
       "pivotal": false,
       "status": null
@@ -1342,6 +1437,7 @@
       "source_url": "https://www.change.org/p/non-%C3%A0-la-mise-sur-%C3%A9coute-de-votre-t%C3%A9l%C3%A9phone-avec-chat-control",
       "source_name": "change.org",
       "eu_ref_url": null,
+      "image": "https://assets.change.org/photos/6/ow/mp/vlOWmpjDDWqeCRp-1600x900-noPad.jpg?1757325096",
       "verified": true,
       "pivotal": false,
       "status": null
@@ -1356,6 +1452,7 @@
       "source_url": "https://euperspectives.eu/2025/08/eu-chat-control-heads-for-a-decisive-vote/",
       "source_name": "euperspectives.eu",
       "eu_ref_url": null,
+      "image": "https://euperspectives.eu/app/uploads/2025/08/christian-wiediger-5bg-9id-a6i-unsplash-scaled.jpg",
       "verified": true,
       "pivotal": false,
       "status": null
@@ -1370,6 +1467,7 @@
       "source_url": "https://x.com/echo_pbreyer/status/1950814065443422405",
       "source_name": "X",
       "eu_ref_url": null,
+      "image": null,
       "verified": true,
       "pivotal": false,
       "status": null
@@ -1384,6 +1482,7 @@
       "source_url": "https://techcrunch.com/2024/10/12/chat-control-the-eus-controversial-csam-scanning-legal-proposal-explained/",
       "source_name": "techcrunch.com",
       "eu_ref_url": null,
+      "image": "https://techcrunch.com/wp-content/uploads/2021/11/GettyImages-1334692322.jpg?resize=1200,675",
       "verified": true,
       "pivotal": false,
       "status": null
@@ -1398,6 +1497,7 @@
       "source_url": "https://therecord.media/european-council-e2ee-proposal-signal-whittaker-criticism",
       "source_name": "therecord.media",
       "eu_ref_url": null,
+      "image": "https://cms.therecord.media/uploads/2022_05_european_union_cc0acd7232.jpg",
       "verified": true,
       "pivotal": false,
       "status": null
@@ -1412,6 +1512,7 @@
       "source_url": "https://cdt.org/insights/cdt-europes-response-to-the-european-parliament-rejection-of-the-chat-control-1-0s-extension/",
       "source_name": "cdt.org",
       "eu_ref_url": "https://eur-lex.europa.eu/eli/reg/2021/1232/oj",
+      "image": "https://cdt.org/wp-content/uploads/2026/04/Security-Surveillance-1-1-1024x512.png",
       "verified": true,
       "pivotal": false,
       "status": null
@@ -1426,6 +1527,7 @@
       "source_url": "https://element.io/blog/open-letter-on-csa-regulation/",
       "source_name": "element.io",
       "eu_ref_url": null,
+      "image": "https://element.io/blog/content/images/size/w1200/2024/01/element-blog-1.png",
       "verified": true,
       "pivotal": false,
       "status": null
@@ -1440,6 +1542,7 @@
       "source_url": "https://www.europarl.europa.eu/legislative-train/spotlight-JD22/file-combating-child-sexual-abuse-online",
       "source_name": "europarl.europa.eu",
       "eu_ref_url": "https://www.europarl.europa.eu/legislative-train/spotlight-JD22/file-combating-child-sexual-abuse-online",
+      "image": "https://www.europarl.europa.eu/legislative-train/images/train_social.png",
       "verified": true,
       "pivotal": false,
       "status": null
@@ -1454,6 +1557,7 @@
       "source_url": "https://csa-scientist-open-letter.org/Jul2023",
       "source_name": "csa-scientist-open-letter.org",
       "eu_ref_url": null,
+      "image": null,
       "verified": true,
       "pivotal": false,
       "status": null
@@ -1468,6 +1572,7 @@
       "source_url": "https://threema.ch/en/blog/posts/open-letter-csa-regulation",
       "source_name": "threema.ch",
       "eu_ref_url": null,
+      "image": "https://threema.com/img/containers/assets/legacy/blog/threema%20chatkontrolle%20blo.png/0fd105353ed367562e52178ad00f10fc/threema%20chatkontrolle%20blo.png",
       "verified": true,
       "pivotal": false,
       "status": null
@@ -1482,6 +1587,7 @@
       "source_url": "https://www.wired.com/story/apple-csam-scanning-heat-initiative-letter/",
       "source_name": "wired.com",
       "eu_ref_url": null,
+      "image": "https://media.wired.com/photos/64f0ce7c79a3ae9b3ddaa439/191:100/w_1280,c_limit/Apple-CSAM-Controversy-Security-GettyImages-1462322900.jpg",
       "verified": true,
       "pivotal": false,
       "status": null
@@ -1496,6 +1602,7 @@
       "source_url": "https://eur-lex.europa.eu/eli/reg/2021/1232/oj",
       "source_name": "eur-lex.europa.eu",
       "eu_ref_url": "https://eur-lex.europa.eu/eli/reg/2021/1232/oj",
+      "image": null,
       "verified": true,
       "pivotal": false,
       "status": null

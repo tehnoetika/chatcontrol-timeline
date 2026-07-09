@@ -24,7 +24,10 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parent.parent
 RAW_DIR = ROOT / "pipeline" / "data" / "raw"
 EXTRACT_DIR = ROOT / "pipeline" / "data" / "extracted"
+IMAGES = ROOT / "pipeline" / "data" / "images.json"
 OUT = ROOT / "frontend" / "public" / "data" / "timeline.json"
+
+IMAGE_MAP: dict = json.loads(IMAGES.read_text()) if IMAGES.exists() else {}
 
 # Topic tokens: if a cached Firecrawl extraction of a source contains any of
 # these, we treat the source as confirmed on-topic and flip verified -> true.
@@ -108,6 +111,7 @@ def normalize(ev: dict) -> dict | None:
         "source_url": ev["source_url"].strip(),
         "source_name": (ev.get("source_name") or "").strip(),
         "eu_ref_url": ev.get("eu_ref_url") or None,
+        "image": (IMAGE_MAP.get(ev["source_url"]) or {}).get("image"),
         "verified": bool(ev.get("verified", False)) or extraction_confirms(ev["source_url"]),
         "pivotal": is_pivotal(ev),
         "status": "pending" if ev["date"][:10] == LIVE_DATE and ev["type"] == "glasovanje" else None,

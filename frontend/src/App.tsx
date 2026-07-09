@@ -6,15 +6,19 @@ import { Hero } from "./components/Hero";
 import { Filters } from "./components/Filters";
 import { Timeline } from "./components/Timeline";
 import { Footer } from "./components/Footer";
+import { MepVotes } from "./components/MepVotes";
+import { loadMepVotes, type MepVotes as MepVotesData } from "./lib/mep";
 
 export default function App() {
   const [data, setData] = useState<TimelineData | null>(null);
   const [error, setError] = useState<string | null>(null);
   const [query, setQuery] = useState("");
   const [active, setActive] = useState<Set<EventType>>(new Set());
+  const [mepVotes, setMepVotes] = useState<MepVotesData | null>(null);
 
   useEffect(() => {
     loadTimeline().then(setData).catch((e) => setError(String(e)));
+    loadMepVotes().then(setMepVotes);
   }, []);
 
   const counts = useMemo(() => {
@@ -83,6 +87,8 @@ export default function App() {
             last={stats.last}
             live={stats.live}
           />
+
+          {mepVotes && <MepVotes data={mepVotes} />}
 
           <div className="sticky top-0 z-20 -mx-4 sm:-mx-6 px-4 sm:px-6 py-3 bg-ink/80 backdrop-blur-md">
             <Filters

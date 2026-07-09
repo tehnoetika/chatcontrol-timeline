@@ -20,6 +20,8 @@ export interface TimelineEvent {
   source_url: string;
   source_name: string;
   eu_ref_url?: string | null;
+  /** Primary visualization (og:image) from the source, if any. */
+  image?: string | null;
   /** Optional pinned significance — pivotal events render larger. */
   pivotal?: boolean;
   /** Live/unfolding status, e.g. today's vote before the result is in. */

@@ -1,0 +1,26 @@
+{
+  "vote_source_url": "https://howtheyvote.eu/votes/195775",
+  "vote_source_name": "howtheyvote.eu (službeni EP roll-call)",
+  "verified": true,
+  "overall": {
+    "za_odbacivanje": 314,
+    "protiv_odbacivanja": 276,
+    "suzdrzan": 17,
+    "nije_glasao": 112,
+    "threshold": 361
+  },
+  "meps": [
+    { "name": "Stephen Nikola Bartulica", "party_hr": "DP", "group_eu": "ECR", "position": "za_odbacivanje" },
+    { "name": "Biljana Borzan", "party_hr": "SDP", "group_eu": "S&D", "position": "za_odbacivanje" },
+    { "name": "Gordan Bosanac", "party_hr": "Možemo!", "group_eu": "Greens/EFA", "position": "za_odbacivanje" },
+    { "name": "Romana Jerković", "party_hr": "SDP", "group_eu": "S&D", "position": "za_odbacivanje" },
+    { "name": "Tonino Picula", "party_hr": "SDP", "group_eu": "S&D", "position": "za_odbacivanje" },
+    { "name": "Marko Vešligaj", "party_hr": "SDP", "group_eu": "S&D", "position": "za_odbacivanje" },
+    { "name": "Karlo Ressler", "party_hr": "HDZ", "group_eu": "EPP", "position": "protiv_odbacivanja" },
+    { "name": "Tomislav Sokol", "party_hr": "HDZ", "group_eu": "EPP", "position": "protiv_odbacivanja" },
+    { "name": "Davor Ivo Stier", "party_hr": "HDZ", "group_eu": "EPP", "position": "protiv_odbacivanja" },
+    { "name": "Željana Zovko", "party_hr": "HDZ", "group_eu": "EPP", "position": "protiv_odbacivanja" },
+    { "name": "Nikolina Brnjac", "party_hr": "HDZ", "group_eu": "EPP", "position": "nije_glasao" },
+    { "name": "Sunčana Glavak", "party_hr": "HDZ", "group_eu": "EPP", "position": "nije_glasao" }
+  ]
+}

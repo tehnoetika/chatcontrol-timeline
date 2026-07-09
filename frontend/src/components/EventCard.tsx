@@ -40,20 +40,45 @@ export function EventCard({ event }: { event: TimelineEvent }) {
         )}
       </div>
 
-      <h3 className="text-[15px] sm:text-base font-bold leading-snug text-slate-50">
-        <a
-          href={event.source_url}
-          target="_blank"
-          rel="noopener noreferrer"
-          className={`decoration-transparent hover:${style.text} transition-colors`}
-        >
-          {event.title}
-        </a>
-      </h3>
+      <div className="flex gap-3 sm:gap-4">
+        <div className="min-w-0 flex-1">
+          <h3 className="text-[15px] sm:text-base font-bold leading-snug text-slate-50">
+            <a
+              href={event.source_url}
+              target="_blank"
+              rel="noopener noreferrer"
+              className={`decoration-transparent hover:${style.text} transition-colors`}
+            >
+              {event.title}
+            </a>
+          </h3>
 
-      {event.summary && (
-        <p className="mt-1.5 text-sm leading-relaxed text-slate-300">{event.summary}</p>
-      )}
+          {event.summary && (
+            <p className="mt-1.5 text-sm leading-relaxed text-slate-300">{event.summary}</p>
+          )}
+        </div>
+
+        {event.image && (
+          <a
+            href={event.source_url}
+            target="_blank"
+            rel="noopener noreferrer"
+            className="shrink-0 self-start"
+          >
+            <img
+              src={event.image}
+              alt=""
+              loading="lazy"
+              referrerPolicy="no-referrer"
+              onError={(e) => {
+                (e.currentTarget.closest("a") as HTMLElement).style.display = "none";
+              }}
+              className="h-16 w-16 sm:h-24 sm:w-24 rounded-md object-cover ring-1 ring-white/10
+                         bg-ink-700"
+            />
+          </a>
+        )}
+      </div>
 
       <div className="mt-3 flex flex-wrap items-center gap-x-3 gap-y-1 text-xs text-slate-400">
         {event.actor && <span className="font-medium text-slate-300">{event.actor}</span>}
