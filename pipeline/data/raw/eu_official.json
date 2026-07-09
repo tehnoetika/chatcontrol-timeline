@@ -1,0 +1,145 @@
+[
+  {
+    "date": "2021-07-14",
+    "title": "Chat Control 1.0 interim derogation (Regulation (EU) 2021/1232) adopted",
+    "type": "EU_sluzbeno",
+    "actor": "European Parliament / Council",
+    "summary": "The temporary derogation from the ePrivacy Directive was adopted, entering into force 2 August 2021 and originally valid until 3 August 2024, allowing providers to voluntarily detect, report and remove CSAM ('Chat Control 1.0').",
+    "source_url": "https://eur-lex.europa.eu/eli/reg/2021/1232/oj",
+    "source_name": "eur-lex.europa.eu",
+    "eu_ref_url": "https://eur-lex.europa.eu/eli/reg/2021/1232/oj",
+    "verified": false
+  },
+  {
+    "date": "2022-05-11",
+    "title": "European Commission proposes the CSA Regulation (CSAR)",
+    "type": "EU_sluzbeno",
+    "actor": "European Commission",
+    "summary": "Commissioner Ylva Johansson presented the proposal for a Regulation to prevent and combat child sexual abuse (COM(2022) 209 final), procedure 2022/0155(COD), the permanent 'Chat Control 2.0' framework.",
+    "source_url": "https://www.europarl.europa.eu/legislative-train/spotlight-JD22/file-combating-child-sexual-abuse-online",
+    "source_name": "europarl.europa.eu",
+    "eu_ref_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52022PC0209",
+    "verified": true
+  },
+  {
+    "date": "2023-11-14",
+    "title": "LIBE Committee adopts negotiating position removing indiscriminate scanning",
+    "type": "glasovanje",
+    "actor": "European Parliament (LIBE Committee)",
+    "summary": "Parliament's Civil Liberties Committee (LIBE), rapporteur Javier Zarzalejos, adopted its report on the CSAR removing mandatory indiscriminate 'chat control' scanning and excluding end-to-end encrypted communications.",
+    "source_url": "https://www.europarl.europa.eu/legislative-train/spotlight-JD22/file-combating-child-sexual-abuse-online",
+    "source_name": "europarl.europa.eu",
+    "eu_ref_url": "https://www.europarl.europa.eu/legislative-train/spotlight-JD22/file-combating-child-sexual-abuse-online",
+    "verified": true
+  },
+  {
+    "date": "2024-04-10",
+    "title": "Interim derogation extended to 3 April 2026",
+    "type": "EU_sluzbeno",
+    "actor": "European Parliament / Council",
+    "summary": "Following a provisional agreement of 15 February 2024, Parliament (10 April 2024) and Council (29 April 2024) approved extending the Chat Control 1.0 derogation until 3 April 2026, pending adoption of the permanent CSAR.",
+    "source_url": "https://cdt.org/insights/cdt-europes-response-to-the-european-parliament-rejection-of-the-chat-control-1-0s-extension/",
+    "source_name": "cdt.org",
+    "eu_ref_url": "https://eur-lex.europa.eu/eli/reg/2021/1232/oj",
+    "verified": false
+  },
+  {
+    "date": "2025-12-09",
+    "title": "Trilogue negotiations on the permanent CSAR begin",
+    "type": "EU_sluzbeno",
+    "actor": "European Parliament / Council / Commission",
+    "summary": "Interinstitutional trilogue negotiations on the permanent CSA Regulation ('Chat Control 2.0') commenced, with the file described officially as 'close to adoption'.",
+    "source_url": "https://www.europarl.europa.eu/legislative-train/spotlight-JD22/file-combating-child-sexual-abuse-online",
+    "source_name": "europarl.europa.eu",
+    "eu_ref_url": "https://www.europarl.europa.eu/legislative-train/spotlight-JD22/file-combating-child-sexual-abuse-online",
+    "verified": true
+  },
+  {
+    "date": "2026-03-26",
+    "title": "European Parliament rejects extension of Chat Control 1.0 by one vote",
+    "type": "glasovanje",
+    "actor": "European Parliament",
+    "summary": "In a voting thriller, Amendment 34 to Regulation (EU) 2021/1232 (extending its application period) carried 307 for : 306 against : 24 abstentions (637 cast); the plenary then declined to extend the derogation (reported 311 against : 228 in favour : 92 abstentions), letting the interim regime lapse.",
+    "source_url": "https://howtheyvote.eu/votes/189574",
+    "source_name": "howtheyvote.eu",
+    "eu_ref_url": "https://www.europarl.europa.eu/doceo/document/A-10-2026-0040_EN.html",
+    "verified": true
+  },
+  {
+    "date": "2026-04-04",
+    "title": "Chat Control 1.0 interim scanning regime expires",
+    "type": "EU_sluzbeno",
+    "actor": "European Parliament / Council",
+    "summary": "With no extension adopted, the temporary ePrivacy derogation (Regulation (EU) 2021/1232) expired on 4 April 2026, removing the legal basis platforms had relied on for voluntary CSAM scanning.",
+    "source_url": "https://www.euronews.com/my-europe/2026/07/07/eu-to-extend-temporary-message-scanning-regime-to-detect-child-sexual-abuse-online",
+    "source_name": "euronews.com",
+    "eu_ref_url": "https://eur-lex.europa.eu/eli/reg/2021/1232/oj",
+    "verified": true
+  },
+  {
+    "date": "2026-06-10",
+    "title": "Council Legal Service warns proposal breaches Article 7 of the Charter",
+    "type": "EU_sluzbeno",
+    "actor": "Council Legal Service",
+    "summary": "The Council's own Legal Service opined that the 'voluntary' scanning still constitutes generalised scanning of communications, incompatible with Article 7 of the EU Charter of Fundamental Rights absent reasonable suspicion and prior judicial authorisation, and likely to be struck down by the CJEU.",
+    "source_url": "https://fightchatcontrol.eu/chat-control-overview",
+    "source_name": "fightchatcontrol.eu",
+    "eu_ref_url": null,
+    "verified": true
+  },
+  {
+    "date": "2026-06-26",
+    "title": "COREPER ambassadors agree to revive temporary scanning extension",
+    "type": "EU_sluzbeno",
+    "actor": "Council (COREPER / EU ambassadors)",
+    "summary": "EU ambassadors, on a proposal from the Cypriot Council presidency, agreed to push forward a formally 'new' temporary regulation reviving the expired Chat Control 1.0 voluntary-scanning framework, just three months after Parliament rejected it.",
+    "source_url": "https://www.euronews.com/my-europe/2026/06/26/eu-countries-move-to-revive-temporary-message-scanning-regime-but-it-could-backfire",
+    "source_name": "euronews.com",
+    "eu_ref_url": null,
+    "verified": true
+  },
+  {
+    "date": "2026-06-29",
+    "title": "Fifth (expected final) CSAR 2.0 trilogue collapses",
+    "type": "EU_sluzbeno",
+    "actor": "European Parliament / Council / Commission",
+    "summary": "The fifth trilogue on the permanent CSA Regulation, announced as the last under the Cyprus presidency, produced no deal, collapsing over the Council's insistence on suspicionless scanning; negotiations were pushed to autumn.",
+    "source_url": "https://closednetwork.io/eu-chat-control-the-fight-to-scan-every-private-message-live-tracker/",
+    "source_name": "closednetwork.io",
+    "eu_ref_url": null,
+    "verified": true
+  },
+  {
+    "date": "2026-07-02",
+    "title": "Council adopts position on the 'new' temporary regulation",
+    "type": "EU_sluzbeno",
+    "actor": "Council of the EU",
+    "summary": "The Council formally adopted, by written procedure, its first-reading position on the substantively identical 'new' regulation reviving Chat Control 1.0, sending it to Parliament for a second reading.",
+    "source_url": "https://euperspectives.eu/2026/07/parliament-forced-back-to-the-chat-control-question/",
+    "source_name": "euperspectives.eu",
+    "eu_ref_url": null,
+    "verified": true
+  },
+  {
+    "date": "2026-07-07",
+    "title": "Parliament approves Rule 170 urgent procedure to fast-track the revival",
+    "type": "glasovanje",
+    "actor": "European Parliament",
+    "summary": "Backed by the EPP, MEPs voted 331 in favour : 304 against : 11 abstentions to apply the urgent procedure under Rule 170, scheduling a binding vote for 9 July and, because it is a second reading, requiring an absolute majority of 361 MEPs to reject or amend the Council text.",
+    "source_url": "https://www.heise.de/en/news/Showdown-in-Strasbourg-The-unexpected-return-of-Chat-Control-1-0-11356680.html",
+    "source_name": "heise.de",
+    "eu_ref_url": null,
+    "verified": true
+  },
+  {
+    "date": "2026-07-09",
+    "title": "Europski parlament ne uspijeva odbaciti oživljavanje Chat Controla 1.0 — mjera prolazi do 2028.",
+    "type": "glasovanje",
+    "actor": "European Parliament",
+    "summary": "U drugom čitanju prijedlog za odbacivanje stajališta Vijeća dobio je 276 glasova za odbacivanje : 286 protiv : 30 suzdržanih — ispod apsolutne većine od 361 potrebne za blokadu. Iako je većina prisutnih zastupnika bila protiv same regulative (Breyer navodi 314 protiv uredbe), visoki prag značio je da stajalište Vijeća prolazi: dobrovoljni masovni nadzor privatnih poruka vraća se na snagu do 3. travnja 2028., uz simbolično izuzeće za enkriptiranu komunikaciju. Pregovori o trajnoj CSA uredbi nastavljaju se u rujnu.",
+    "source_url": "https://www.patrick-breyer.de/en/eu-parliament-greenlights-chat-control-1-0-breyer-our-children-lose-out/",
+    "source_name": "patrick-breyer.de",
+    "eu_ref_url": "https://www.europarl.europa.eu/plenary/hr/votes.html?tab=votes",
+    "verified": true
+  }
+]

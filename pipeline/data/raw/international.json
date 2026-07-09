@@ -1,0 +1,233 @@
+[
+  {
+    "date": "2022-12-07",
+    "title": "Apple abandons CSAM client-side scanning plan",
+    "type": "medjunarodni_kontekst",
+    "actor": "Apple",
+    "summary": "Apple scrapped its planned on-device CSAM photo-scanning system; in later correspondence (Aug 2023) it detailed that client-side scanning cannot be built without imperiling all users' security and privacy — the central technical precedent cited against EU Chat Control.",
+    "source_url": "https://www.wired.com/story/apple-csam-scanning-heat-initiative-letter/",
+    "source_name": "wired.com",
+    "eu_ref_url": null,
+    "verified": false
+  },
+  {
+    "date": "2023-05-05",
+    "title": "Threema signs open letter: 'Data privacy is more important than ever'",
+    "type": "medjunarodni_kontekst",
+    "actor": "Threema (Switzerland)",
+    "summary": "Swiss secure messenger Threema publicly opposed the CSA Regulation, arguing that scanning end-to-end encrypted content requires a backdoor/client-side scanning that endangers everyone's security.",
+    "source_url": "https://threema.ch/en/blog/posts/open-letter-csa-regulation",
+    "source_name": "threema.ch",
+    "eu_ref_url": null,
+    "verified": false
+  },
+  {
+    "date": "2023-07-04",
+    "title": "500+ cryptographers and security researchers reject client-side scanning",
+    "type": "medjunarodni_kontekst",
+    "actor": "CSA Scientist Open Letter (cryptographers/academics)",
+    "summary": "Over 500 scientists with cryptography and IT-security credentials published an open letter warning that the EU CSA Regulation's client-side scanning is technically infeasible, ineffective, and a dangerous mass-surveillance precedent.",
+    "source_url": "https://csa-scientist-open-letter.org/Jul2023",
+    "source_name": "csa-scientist-open-letter.org",
+    "eu_ref_url": null,
+    "verified": true
+  },
+  {
+    "date": "2024-01-22",
+    "title": "Tech industry open letter against mandatory scanning (Element, Proton, Threema, Tuta, Nextcloud)",
+    "type": "medjunarodni_kontekst",
+    "actor": "Element / Matrix and 18 European tech companies",
+    "summary": "Eighteen European technology companies urged EU Member States to align with Parliament's position, rejecting client-side scanning and backdoors that would force mass surveillance and undermine end-to-end encryption.",
+    "source_url": "https://element.io/blog/open-letter-on-csa-regulation/",
+    "source_name": "element.io",
+    "eu_ref_url": null,
+    "verified": true
+  },
+  {
+    "date": "2024-06-17",
+    "title": "Signal's Whittaker: 'upload moderation' is just rebranded mass scanning",
+    "type": "medjunarodni_kontekst",
+    "actor": "Meredith Whittaker (Signal Foundation)",
+    "summary": "Reacting to the Council's E2EE proposal, Whittaker said there is no way to implement it without fundamentally undermining encryption: 'Whether you call it a backdoor, a front door, or upload moderation it undermines encryption and creates significant vulnerabilities.'",
+    "source_url": "https://therecord.media/european-council-e2ee-proposal-signal-whittaker-criticism",
+    "source_name": "therecord.media",
+    "eu_ref_url": null,
+    "verified": true
+  },
+  {
+    "date": "2024-10-12",
+    "title": "TechCrunch explainer: 'Chat control' — the EU's controversial CSAM-scanning proposal",
+    "type": "medjunarodni_kontekst",
+    "actor": "TechCrunch",
+    "summary": "In-depth tech-press explainer of the CSA Regulation, detailing how client-side scanning would analyze content before encryption and require real-time grooming detection, and why critics call it mass surveillance.",
+    "source_url": "https://techcrunch.com/2024/10/12/chat-control-the-eus-controversial-csam-scanning-legal-proposal-explained/",
+    "source_name": "techcrunch.com",
+    "eu_ref_url": null,
+    "verified": true
+  },
+  {
+    "date": "2025-08-01",
+    "title": "EU Perspectives: 'EU Chat Control heads for a decisive vote'",
+    "type": "medjunarodni_kontekst",
+    "actor": "EU Perspectives",
+    "summary": "Tracker-quality coverage framing the Danish presidency's push and the looming October Council vote on mandatory detection orders.",
+    "source_url": "https://euperspectives.eu/2025/08/eu-chat-control-heads-for-a-decisive-vote/",
+    "source_name": "euperspectives.eu",
+    "eu_ref_url": null,
+    "verified": false
+  },
+  {
+    "date": "2025-08-08",
+    "title": "Euronews: 'Return of chat control — something is rotten in the state of Denmark'",
+    "type": "medjunarodni_kontekst",
+    "actor": "Euronews",
+    "summary": "Quality-journalism analysis of the Danish Council Presidency reviving Chat Control from July 2025, categorizing services into low/medium/high risk and pushing client-side scanning toward an October vote.",
+    "source_url": "https://www.euronews.com/next/2025/08/08/return-of-chat-control-something-is-rotten-in-the-state-of-denmark",
+    "source_name": "euronews.com",
+    "eu_ref_url": null,
+    "verified": true
+  },
+  {
+    "date": "2025-09-15",
+    "title": "Tuta: 'We will not stand by while the EU destroys encryption'",
+    "type": "medjunarodni_kontekst",
+    "actor": "Tuta (Matthias Pfau)",
+    "summary": "German encrypted-email provider Tuta declared it would exit the European market rather than compromise user security and signaled readiness to litigate if Chat Control's scanning mandate passes.",
+    "source_url": "https://tuta.com/blog/chat-control-criticism",
+    "source_name": "tuta.com",
+    "eu_ref_url": null,
+    "verified": false
+  },
+  {
+    "date": "2025-09-17",
+    "title": "Scientists renew open letter warning against Danish Chat Control text",
+    "type": "medjunarodni_kontekst",
+    "actor": "CSA Scientist Open Letter (500+ researchers, 34 countries)",
+    "summary": "Cryptographers and security researchers issued an updated statement calling the Danish presidency's proposal 'technically infeasible,' a 'danger to democracy,' and a direct threat to the privacy of all EU citizens.",
+    "source_url": "https://csa-scientist-open-letter.org/Sep2025",
+    "source_name": "csa-scientist-open-letter.org",
+    "eu_ref_url": null,
+    "verified": false
+  },
+  {
+    "date": "2025-10-03",
+    "title": "Signal threatens to leave the EU market; urges Germany to vote No",
+    "type": "medjunarodni_kontekst",
+    "actor": "Meredith Whittaker (Signal Foundation)",
+    "summary": "Whittaker called on Germany to reject Chat Control, saying that faced with a choice between undermining its encryption guarantees or leaving Europe, Signal 'would make the decision to leave the market.'",
+    "source_url": "https://therecord.media/signal-calls-on-germany-to-vote-no-chat-control",
+    "source_name": "therecord.media",
+    "eu_ref_url": null,
+    "verified": true
+  },
+  {
+    "date": "2025-10-07",
+    "title": "Germany joins blocking minority, killing the October Council vote",
+    "type": "medjunarodni_kontekst",
+    "actor": "CyberInsider / privacy press",
+    "summary": "Germany, alongside Luxembourg and others, formed a blocking minority representing over 35% of the EU population, forcing withdrawal of the planned 14 October vote on mandatory scanning.",
+    "source_url": "https://cyberinsider.com/signal-vows-to-leave-european-market-if-chat-control-becomes-law/",
+    "source_name": "cyberinsider.com",
+    "eu_ref_url": null,
+    "verified": false
+  },
+  {
+    "date": "2025-10-11",
+    "title": "Euronews: 'Chat Control on hold, Europe's Eastern flank remains passive'",
+    "type": "medjunarodni_kontekst",
+    "actor": "Euronews",
+    "summary": "Analysis of the postponed October vote, the blocking minority, and how Eastern EU member states largely stayed passive in the debate.",
+    "source_url": "https://www.euronews.com/next/2025/10/11/chat-control-on-hold-europes-eastern-flank-remains-passive",
+    "source_name": "euronews.com",
+    "eu_ref_url": null,
+    "verified": true
+  },
+  {
+    "date": "2025-11-20",
+    "title": "Netherlands rejects Chat Control proposal over encryption threat",
+    "type": "medjunarodni_kontekst",
+    "actor": "CyberInsider / Dutch government",
+    "summary": "The Dutch Justice Minister told parliament the Netherlands would not support mandatory scanning that threatens secure, private digital communication, weakening Council support.",
+    "source_url": "https://cyberinsider.com/netherlands-rejects-chat-control-proposal-which-threatens-encryption/",
+    "source_name": "cyberinsider.com",
+    "eu_ref_url": null,
+    "verified": false
+  },
+  {
+    "date": "2025-11-26",
+    "title": "Max Planck Society: 'More monitoring, but not more protection'",
+    "type": "medjunarodni_kontekst",
+    "actor": "Max Planck Institute for Security and Privacy (Carmela Troncoso)",
+    "summary": "Max Planck welcomed removal of mandatory scanning but warned that expanded 'voluntary' monitoring (now text and video) plus mandatory age verification create privacy risks without demonstrable child-protection benefits.",
+    "source_url": "https://www.mpg.de/25788438/chat-control-eu-client-side-scanning",
+    "source_name": "mpg.de",
+    "eu_ref_url": null,
+    "verified": true
+  },
+  {
+    "date": "2025-12-01",
+    "title": "EU Perspectives: Breyer warns heavy lifting moves into 2026",
+    "type": "medjunarodni_kontekst",
+    "actor": "EU Perspectives / Patrick Breyer",
+    "summary": "Coverage of the Council's 26 November general approach kicking off trilogue negotiations, with former MEP Patrick Breyer warning the decisive fight would continue into 2026.",
+    "source_url": "https://euperspectives.eu/2025/12/breyer-warns-chat-control-decision-moves-into-2026/",
+    "source_name": "euperspectives.eu",
+    "eu_ref_url": null,
+    "verified": false
+  },
+  {
+    "date": "2025-12-03",
+    "title": "EFF: 'Chat Control nears its final hurdle — what to know'",
+    "type": "medjunarodni_kontekst",
+    "actor": "Electronic Frontier Foundation",
+    "summary": "EFF argued that even without mandatory scanning, 'voluntary' scanning plus broad risk-mitigation and age-verification mandates would undermine privacy, and urged that client-side scanning be explicitly ruled incompatible with encryption.",
+    "source_url": "https://www.eff.org/deeplinks/2025/12/after-years-controversy-eus-chat-control-nears-its-final-hurdle-what-know",
+    "source_name": "eff.org",
+    "eu_ref_url": null,
+    "verified": true
+  },
+  {
+    "date": "2026-03-26",
+    "title": "EU Perspectives: Parliament committee votes down CSAM-scanning extension",
+    "type": "medjunarodni_kontekst",
+    "actor": "EU Perspectives",
+    "summary": "Tech-press tracker reporting the parliamentary rejection of extending the 'voluntary' Chat Control 1.0 derogation, leading to expiry of the interim regulation on 4 April 2026.",
+    "source_url": "https://euperspectives.eu/2026/03/eu-parliament-committee-votes-down-extension-of-csam-detection-rules/",
+    "source_name": "euperspectives.eu",
+    "eu_ref_url": null,
+    "verified": false
+  },
+  {
+    "date": "2026-06-30",
+    "title": "closednetwork.io live tracker of the Chat Control fight",
+    "type": "medjunarodni_kontekst",
+    "actor": "closednetwork.io",
+    "summary": "Continuously updated live tracker documenting every Council vote, blocking minority, and trilogue on Chat Control; last updated 30 June 2026 noting the fifth/final trilogue under the Cyprus presidency.",
+    "source_url": "https://closednetwork.io/eu-chat-control-the-fight-to-scan-every-private-message-live-tracker/",
+    "source_name": "closednetwork.io",
+    "eu_ref_url": null,
+    "verified": true
+  },
+  {
+    "date": "2026-07-06",
+    "title": "MEP Martin Sonneborn: fast-track Chat Control 'suspends a fundamental right'",
+    "type": "medjunarodni_kontekst",
+    "actor": "Martin Sonneborn (MEP)",
+    "summary": "At the Strasbourg plenary, Sonneborn challenged the urgency procedure, brandished the rulebook demanding the motion be ruled inadmissible, and said the derogation 'suspends a fundamental right, the confidentiality of telecommunications' — his mic was cut after 60 seconds.",
+    "source_url": "https://brusselssignal.eu/2026/07/mep-sonneborn-slams-chat-control-push-suspends-a-fundamental-right/",
+    "source_name": "brusselssignal.eu",
+    "eu_ref_url": null,
+    "verified": true
+  },
+  {
+    "date": "2026-07-07",
+    "title": "EU Perspectives: Parliament forced back to the Chat Control question",
+    "type": "medjunarodni_kontekst",
+    "actor": "EU Perspectives",
+    "summary": "MEPs narrowly approved (331-304) scheduling a Thursday revote on extending the scanning derogation via urgent procedure; Green MEP Markéta Gregorová accused proponents of abusing Parliament's rules.",
+    "source_url": "https://euperspectives.eu/2026/07/parliament-forced-back-to-the-chat-control-question/",
+    "source_name": "euperspectives.eu",
+    "eu_ref_url": null,
+    "verified": true
+  }
+]
